@@ -1,0 +1,10 @@
+x = int(input("1st number: "))
+y = int(input("2nd number: "))
+
+print(f"Sum: {x+y}")
+print(f"Difference: {x-y}")
+print(f"Product: {x*y}")
+print(f"Power: {x**y}")
+print(f"Quotient (int): {x//y}")
+print(f"Quotient (float): {x/y}")
+print(f"Remainder: {x%y}")
