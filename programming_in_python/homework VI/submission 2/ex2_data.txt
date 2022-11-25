@@ -1,0 +1,3 @@
+br  \nand\n:   Ford\n  
+\nmod  el:  Mustang  \n\n
+year\n  :  196  4  
