@@ -5,6 +5,10 @@ The course is about the machine learning supervised techniques: classification (
 The focus of this course is put on Deep Learning and Reinforcement Learning techniques using practical applications in order to get an overview of different approaches. <br/><br/>
 :snake:```Programming in Python``` <br/>
 The purpose of this course is to reinforce the Python language programming, starting from the basics and then introducing advanced concepts.
+<br/><br/>
+:construction_worker_man:```Algorithms and Data Structures``` <br/>
+This topics of this course consits of implementing search trees, hashing, graphs and other data structures. Moreover, basic concepts of optimization using evolutionary and PRAM algorithms will be introduced.
+<br/><br/>
  
 
 <br/><br/>
