@@ -90,16 +90,14 @@ class Graph():
                 if (edge.first_vertex.name==v1_name and edge.second_vertex.name==v2_name) or (edge.first_vertex.name==v2_name and edge.second_vertex.name==v1_name):
                     return None
 
-        first_vertex=Vertex(-1,"")
-        second_vertex=Vertex(-1,"")
+        first_vertex=Vertex(None,"")
+        second_vertex=Vertex(None,"")
         if self.num_vertices!=0:
             for vertex in self.vertices:
                 if vertex.name==v1_name:
-                    first_vertex.idx=vertex.idx
-                    first_vertex.name=vertex.name
+                    first_vertex=vertex
                 elif vertex.name==v2_name:
-                    second_vertex.idx=vertex.idx
-                    second_vertex.name=vertex.name
+                    second_vertex=vertex
 
         new_edge=Edge(first_vertex,second_vertex,weight)
         self.edges.append(new_edge)
