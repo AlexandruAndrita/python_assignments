@@ -1,4 +1,4 @@
-[@uni_assignments](https://github.com/AlexandruAndrita/uni_assignments "uni_assignments") combines the assignments from the main lectures during this semester: <br/><br/>
+[@python_assignments](https://github.com/AlexandruAndrita/uni_assignments "uni_assignments") combines the assignments from the main lectures during this semester: <br/><br/>
 :robot: ```Machine Learning: Supervised Techniques ``` <br/>
 The course is about the machine learning supervised techniques: classification (i.e. methods aiming at models that classify data) or regression (i.e. predict continuous targets from inputs). <br/><br/>
 :space_invader:```Hands-on AI``` <br/>
